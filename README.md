@@ -16,6 +16,4 @@ Upon clicking the listen button, the app starts the conversion proess. You can a
 ![Text-to-speech converter](newApp.PNG)
 ## :computer: Technologies Used
  The project used HTML, css, and Vanilla JS.
- ## :telephone_receiver: Support and contact details
-
 Code contributions are also welcome.
